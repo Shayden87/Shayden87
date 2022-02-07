@@ -1,10 +1,2 @@
 theme: jekyll-theme-tactile
-plugins: - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-- ArtifactOne.md
-- ArtifactTwo.md
-- ArtifactThree.md
-- CodeReview.md
+
