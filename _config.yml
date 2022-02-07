@@ -4,4 +4,7 @@ relative_links:
   enabled: true
   collections: true
 include:
-- EnhancementOne.md
+- ArtifactOne.md
+- ArtifactTwo.md
+- ArtifactThree.md
+- CodeReview.md
