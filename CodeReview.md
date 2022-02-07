@@ -12,10 +12,15 @@
 
 ## Refinement Plan Summary
 
-**Artifact I: Software Engineering/Design**
+### Artifact I: Software Engineering/Design
 
-**Artifact II: Algorithms & Data Structures**
+### Artifact II: Algorithms & Data Structures
 
-**Artifact III: Databases**
+### Artifact III: Databases
 
-    
+**ePortfolio Links** <br> 
+
+* [Artifact I](ArtifactOne.md)
+* [Artifact II](ArtifactTwo.md)
+* [Artifact III](ArtifactThree.md)
+* [Home](index.md)
