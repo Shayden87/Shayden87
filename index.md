@@ -34,3 +34,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 #### ePortfolio Links
 
 [Artifact I](ArtifactOne.md)
+[Artifact II](ArtifactTwo.md)
+[Artifact III](ArtifactThree.md)
+[Code Review](CodeReview.md)
