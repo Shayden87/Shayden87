@@ -1,4 +1,3 @@
-# Spencer Hayden's ePortfolio
 ## Code Review
 <div align="center">
 <iframe 
@@ -9,3 +8,14 @@
     allow="autoplay; encrypted-media" 
     allowfullscreen=""> 
 </iframe>
+</div>
+
+## Refinement Plan Summary
+
+**Artifact I: Software Engineering/Design**
+
+**Artifact II: Algorithms & Data Structures**
+
+**Artifact III: Databases**
+
+    
