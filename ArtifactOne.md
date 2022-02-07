@@ -23,7 +23,7 @@ class Test(unittest.TestCase):
             AppointmentService.add_appointment(a)
 ```
 It showcases my skills in the use of data structures and creation of modular code that is clean, maintainable, and easy to understand. The artifact itself was improved through removing of redundant code and unnecessary methods, clean up of structural irregularity, addition of clear comments within code, and the translation from Java to Python. 
-```markdown
+```
 **_Java Example_**
 
 //constructor//
@@ -42,7 +42,7 @@ It showcases my skills in the use of data structures and creation of modular cod
 			this.description = description;
 		}
 ```
-```markdown
+```
 **_Python Example_**
 
 #Constructor
