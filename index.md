@@ -31,9 +31,9 @@ Syntax highlighted code block
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Shayden87/Shayden87/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-#### ePortfolio Links
+**ePortfolio Links** <br> 
 
-[Artifact I](ArtifactOne.md)
-[Artifact II](ArtifactTwo.md)
-[Artifact III](ArtifactThree.md)
-[Code Review](CodeReview.md)
+* [Artifact I](ArtifactOne.md)
+* [Artifact II](ArtifactTwo.md)
+* [Artifact III](ArtifactThree.md)
+* [Code Review](CodeReview.md)
