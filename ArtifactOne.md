@@ -4,7 +4,7 @@
 This artifact is an implementation of a constructor and list/array through the Python language. It creates appointment objects through the Appointment class then allows them to be added to list/array through the AppointmentService class. The AppointmentService class also allows for the update and removal of objects from the list/array. It was originally created in Java back in 2020 and translated to Python in January 2022.
 
 I included this artifact in my ePortfolio as it highlights my skills in the software design/engineering process. As the artifact also includes a Python unit test protocol it provides demonstration of skills that span the entire software development lifecycle from development of code to testing of that code. 
-```
+```markdown
 class Test(unittest.TestCase):
 
     #Test to verify adding of appointment to list
@@ -23,7 +23,7 @@ class Test(unittest.TestCase):
             AppointmentService.add_appointment(a)
 ```
 It showcases my skills in the use of data structures and creation of modular code that is clean, maintainable, and easy to understand. The artifact itself was improved through removing of redundant code and unnecessary methods, clean up of structural irregularity, addition of clear comments within code, and the translation from Java to Python. 
-```
+```markdown
 **_Java Example_**
 
 //constructor//
@@ -42,7 +42,7 @@ It showcases my skills in the use of data structures and creation of modular cod
 			this.description = description;
 		}
 ```
-```
+```markdown
 **_Python Example_**
 
 #Constructor
