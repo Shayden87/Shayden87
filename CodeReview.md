@@ -28,7 +28,7 @@ My second artifact is a vector array with sorting capabilities. The artifact is 
 
 The third artifact is a MongoDB database object/collection and a CRUD operation along with a JupyterDash dashboard to access and display database. This artifact perfectly aligns to this category as it all centers around databases and their modification/control. It is from my CS-340 course here at SNHU. Enhancement/refinement will include revising naming standards, coding best practices, and adding as much security to code as necessary. I will also look to include a MongoDB interface in order to access the information.
 #### Flowchart:
-![This is an Image](Picture3.jpg)
+![This is an Image](Databases.jpg)
 
 **ePortfolio Links** <br> 
 
