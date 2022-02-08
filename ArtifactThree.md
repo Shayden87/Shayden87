@@ -1,6 +1,8 @@
 # Artifact III
 ## Enhancement: Databases
 
+### Description & Justification
+
 This artifact was originally created for my CS340 course client/server development back in summer of 2020. It is a combination of Python code that implements CRUD operations on a database which was originally implemented through MongoDB, and a Jupyter Notebook code that displayed the database data visual through a web browser-based GUI. 
 
 I chose to include this artifact set in the ePortfolio as it highlights skills in both web browser layout/design and database access/control. It combines the utilization of Python language to provide functions that control the database and HTML for the display of data in within a browser, thereby showcasing two separate language skill sets. The artifact was enhanced through the addition of username and password validation to enhance security.
@@ -22,10 +24,9 @@ Add Example Code Here
 ```
 These visual additions demonstrate achieving the course outcome of delivering professional-quality visual communications as these features are specifically tailored to the specific user utilizing this artifact for database use.
 
-Overall, through my enhancement and modification of this artifact I learned the most. This project, when completed for my previous course, was very environment driven. To perform my enhancements, I had to setup Jupyter Lab on my own computer, as I didn’t have access to the virtual desktop, I was utilizing for the course previously. This meant manually setting up the proper environment through my computers command line. Installing the proper libraries, I needed to import into the project. This was a challenge as I had to go back a few times to find the proper libraries to utilize as there were some inconsistencies. It was great to learn the process of setting up Jupyter Notebook on the backend as this was previously taken care of for us during the course, and once this was done the improvements went fairly smoothly. 
+### Reflection
 
-
-
+Overall, through my enhancement and modification of this artifact I learned the most. This project, when completed for my previous course, was very environment driven. To perform my enhancements, I had to setup Jupyter Lab on my own computer, as I didn’t have access to the virtual desktop I was utilizing for the course previously. This meant manually setting up the proper environment through my computers command line. Installing the proper libraries, I needed to import into the project. This was a challenge as I had to go back a few times to find the proper libraries to utilize as there were some inconsistencies. It was great to learn the process of setting up Jupyter Notebook on the backend as this was previously taken care of for us during the course, and once this was done the improvements went fairly smoothly. 
 
 **Repository Link**<br>
 
