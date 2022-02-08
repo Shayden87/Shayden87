@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Greetings, my name is Spencer and welcome to my eProfile. <br>
+Greetings, my name is Spencer and welcome to my ePortfolio. <br>
 I would like to start off with thanking you so much for taking the time to review my portfolio of work.
 This ePortfolio showcases some of my work during my time within the Southern New Hampshire University Computer Science Program.
 Its' purpose is to highlight the skills and strengths I have developed during the pursuit of my computer science degree. 
@@ -28,7 +28,13 @@ focused strengths in students, but also overall skills and strengths within comp
 
 ## Artifact Summary
 
-My chosen artifacts......
+My chosen artifacts showcase the overall skills and strengths of data structures & algorithms, software design/engineering, databases and security. [Artifact I](ArtifactOne.md) 
+demonstrates my skills and strengths in software design/engineering through the pairing of a constructor and array principles in the Python language. This artifact pairs its' 
+functionality with testing which is an integral part of the design/engineering process and additionally showcases my understanding of these concepts. [Artifact II](ArtifactTwo.md) focuses on skills and strengths pertaining to data structures & algorithms by presenting vector data structures and the algoritms utilized to sort said vectors.
+[Artifact III](ArtifactThree.md) showcases my work with databases. It presents my skills through implementation of MongoDB with CRUD operations paired with a web-based user 
+interface through Jupyter Notebook. 
+
+All of the artifacts come together to present a well rounded presentation of my continously developing strengths. Each of them showcase skills in code security as well through use of coding best practices where applicable. This is highlighted through password management, access control, input validation, and error handling. Skills in coding best practices were also employed with regards to structure, style, and code comments. 
 
 **ePortfolio Links** <br> 
 
