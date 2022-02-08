@@ -6,11 +6,79 @@ This artifact was originally created for my CS260 course in data structures and 
 
 This artifact was chosen for inclusion in my eProfile as it specifically covers algorithms and data structure concepts and highlights my understanding of control over external files using these two concepts. It allows me to show the utilization of multiple algorithms to best make use of the data provided and can be translated for use later to showcase work with databases as well. The artifact was improved in multiple ways. Firstly, the style of the code was combed through, and adjustments were implemented to apply consistent indentation and whitespace throughout the code. Comments were added throughout to provide overall description of the .cpp files and the functions they employ as well as making the code transparent and easy to follow with inline comments. Furthermore, the code was made more modular by separating the main function from control functions allowing for the main code to focus on the user interface which could allow for it to be reused for other implementations.
 ```markdown
-Add example Code Here
+  // Display user menu
+    int choice = 0;
+    while (choice != 9) {
+        cout << "Menu:" << endl;
+        cout << "  1. Load Bids" << endl; // Calls loadBid function
+        cout << "  2. Display All Bids" << endl; // Calls displayBid function
+        cout << "  3. Sort By Title" << endl; // Calls titleSort function
+        cout << "  4. Sort By ID" << endl; // Calls idSort function
+        cout << "  5. Sort By Fund" << endl; // Calls fundSort function
+        cout << "  9. Exit" << endl; // Ends program
+        cout << "Enter choice: ";
+        cin >> choice;
 ```
 Additionally, more functionality was added through more algorithms to allow for the vector to be sorted by additional categories. 
 ```markdown
-Add example Code Here
+void titleSort(vector<Bid>& bids) {
+		// index to the current minimum bid
+		unsigned int min;
+
+		// pos is the position within the bids that marks sorted/unsorted
+		for (unsigned pos = 0; pos < bids.size(); ++pos) {
+		min = pos;
+
+			for (unsigned j = pos + 1; j < bids.size(); ++j) {
+				if (bids.at(j).title.compare(bids.at(min).title) < 0) {
+					min = j;
+				}
+			}
+			if (min != pos) {
+				swap(bids.at(pos), bids.at(min));
+			}
+		}
+}
+```
+```markdown
+void idSort(vector<Bid>& bids) {
+		// index to the current minimum bid
+		unsigned int min;
+
+		// pos is the position within the bids that marks sorted/unsorted
+		for (unsigned pos = 0; pos < bids.size(); ++pos) {
+			min = pos;
+
+			for (unsigned j = pos + 1; j < bids.size(); ++j) {
+				if (bids.at(j).bidId.compare(bids.at(min).bidId) < 0) {
+					min = j;
+				}
+			}
+			if (min != pos) {
+				swap(bids.at(pos), bids.at(min));
+			}
+		}
+}
+```
+```markdown
+void fundSort(vector<Bid>& bids) {
+		// index to the current minimum bid
+		unsigned int min;
+
+		// pos is the position within the bids that marks sorted/unsorted
+		for (unsigned pos = 0; pos < bids.size(); ++pos) {
+			min = pos;
+
+			for (unsigned j = pos + 1; j < bids.size(); ++j) {
+				if (bids.at(j).fund.compare(bids.at(min).fund) < 0) {
+					min = j;
+				}
+			}
+			if (min != pos) {
+				swap(bids.at(pos), bids.at(min));
+			}
+		}
+}
 ```
 This artifact enhancement allowed me to meet the course outcome of designing and evaluating computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution through my demonstration of adding additional algorithms for sorting of the vector through multiple categories. The problem was having unsorted data stored in a CSV file and through the data structure of a vector and algorithms we can parse the file, add to a vector, then sort the data in a meaningful way. This implementation and enhancement also allowed me to meet the outcome of demonstrating an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals. By utilizing my chosen IDE of Eclipse, I met the portion that speaks to using proper tools. The vector and algorithm implementation meets the use of well-founded and innovative techniques and skills portion as well. Through my code comments and descriptions, I helped meet the outcome of employing strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science by allowing others to better understand and modify/utilize my code. 
 
