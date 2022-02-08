@@ -22,7 +22,7 @@ This first artifact is from my CS-320 course and includes implementation of a co
 
 My second artifact is a vector array with sorting capabilities. The artifact is from my CS-260 course here at SNHU. It aligns with the algorithm and data structures in that the code takes input and utilizes functions to solve the problem of searching and sorting data which is the definition of a program algorithm. Planned enhancement for this artifact is cleanup of structure, comment best practices and to make code more modular. By enhancing the code in this way will make it more efficient and easier to modify at a later time if needed.
 #### Flowchart:
-![This is an Image](Picture2.jpg)
+![This is an Image](Algorithms.jpg)
 
 ### Artifact III: Databases
 
