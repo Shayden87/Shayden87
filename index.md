@@ -1,4 +1,7 @@
 # Spencer Hayden's ePortfolio
+<div align ="right">
+![This is an Image](Portrait.jpg)
+</div>
 
 ## Introduction
 
