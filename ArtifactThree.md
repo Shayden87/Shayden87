@@ -129,7 +129,7 @@ These visual additions demonstrate achieving the course outcome of delivering pr
 
 ### Reflection
 
-Overall, through my enhancement and modification of this artifact I learned the most. This project, when completed for my previous course, was very environment driven. To perform my enhancements, I had to setup Jupyter Lab on my own computer, as I didn’t have access to the virtual desktop I was utilizing for the course previously. This meant manually setting up the proper environment through my computers command line. Installing the proper libraries, I needed to import into the project. This was a challenge as I had to go back a few times to find the proper libraries to utilize as there were some inconsistencies. It was great to learn the process of setting up Jupyter Notebook on the backend as this was previously taken care of for us during the course, and once this was done the improvements went fairly smoothly. 
+Overall, through my enhancement and modification of this artifact I learned the most. This project, when completed for my previous course, was very environment driven. To perform my enhancements, I had to setup Jupyter Lab on my own computer, as I didn’t have access to the virtual desktop I was utilizing for the course previously. This meant manually setting up the proper environment through my computers command line. Installing the proper libraries, I needed to import into the project. This was a challenge as I had to go back a few times to find the proper libraries to utilize as there were some inconsistencies. It was great to learn the process of setting up Jupyter Notebook on the backend as this was previously taken care of for us during the course, and once this was done the improvements went smoothly. 
 
 **Repository Link**<br>
 
