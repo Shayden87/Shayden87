@@ -23,7 +23,7 @@ class Test(unittest.TestCase):
             a = Appointment('55502100000', date(2022, 12, 1), 'Business Meeting with share holders')
             AppointmentService.add_appointment(a)
 ```
-The artifact showcases my skills in the use of data structures and creation of modular code that is clean, maintainable, and easy to understand. The artifact itself was improved through removing of redundant code and unnecessary methods, clean up of structural irregularity, addition of clear comments within code, and the translation from Java to Python. This translation of code from one language to another also demonstrates skills and strengths in software design/engineering by implementing code solutions through multiple languages.
+The artifact showcases my skills in the use of data structures and creation of modular code that is clean, maintainable, and easy to understand. The artifact itself was improved through removing of redundant code and unnecessary methods, clean-up of structural irregularity, addition of clear comments within code, and the translation from Java to Python. This translation of code from one language to another also demonstrates skills and strengths in software design/engineering by implementing code solutions through multiple languages.
 ```markdown
 **_Java Example_**
 
