@@ -133,6 +133,7 @@ Overall, through my enhancement and modification of this artifact I learned the 
 
 **Repository Link**<br>
 
+[Original Artifact III](https://github.com/Shayden87/CS340) <br>
 [Enhanced Artifact III](https://github.com/Shayden87/Databases)
 
 **ePortfolio Links** <br> 
