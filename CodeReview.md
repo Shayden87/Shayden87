@@ -14,7 +14,7 @@
 
 ### Artifact I: Software Engineering/Design
 
-This first artifact is from my CS-320 course and includes implementation of a constructor and array design through Java. It also includes the utilization of Junit testing. This artifact also aligns with the key area of data structures with it’s use of arrays however the inclusion of unit testing examples aligns best with software engineering and design as paired testing is essential to the design process. I will look to enhance/refine my work through utilization of best practices in name conventions, code commenting, and structure. I will look to transfer the code into python for the sake of this project. 
+This first artifact is from my CS-320 course and includes implementation of a constructor and array design through Java. It also includes the utilization of Junit testing. This artifact also aligns with the key area of data structures with its use of arrays however the inclusion of unit testing examples aligns best with software engineering and design as paired testing is essential to the design process. I will look to enhance/refine my work through utilization of best practices in name conventions, code commenting, and structure. I will look to transfer the code into python for the sake of this project. 
 #### Functionality Flowchart:
 ![This is an Image](SoftwareDesign.jpg)
 
