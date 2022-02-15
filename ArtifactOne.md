@@ -68,6 +68,7 @@ Through my refinement of this artifact, I learned quite a bit about my own work.
 
 **Repository Link**<br>
 
+[Original Artifact I](https://github.com/Shayden87/CS320) <br>
 [Enhanced Artifact I](https://github.com/Shayden87/Software-Engineering-Design)
 
 **ePortfolio Links** <br> 
