@@ -90,6 +90,7 @@ Through the process of enhancement of this artifact I learned more about the mod
 
 **Repository Link**<br>
 
+[Original Artifact II](https://github.com/Shayden87/CS260) <br>
 [Enhanced Artifact II](https://github.com/Shayden87/Algorithms-Data-Structures)
 
 **ePortfolio Links** <br> 
